@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Vandeson Santos 😁
+## Bem-vindo(a) ao perfil do Vandeson Santos 🤓
 
  <div>
   <a href="https://github.com/vandesonsantos">
