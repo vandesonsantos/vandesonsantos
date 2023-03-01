@@ -1,25 +1,29 @@
-## Bem-vindo(a) ao perfil do Vandeson Santos 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6959CD&height=120&section=header"/>
 
- <div>
-  <a href="https://github.com/devemdobro">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devemdobro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=tokyonight"/>
+## <h1 align="center"> Bem-vindo(a) ao perfil do Vandeson Santos </h1> 
+
+ <div align="center">
+  <a href="https://github.com/vandesonsantos">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vandesonsantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandesonsantos&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
+
+ ## <h1 align="center"> skills </h1> 
+ 
+<div align="center" style="display: inline_block"><br>
+  <code><img height="32" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
+  <code><img height="32" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"></code>
+  <code><img height="32" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+  <code><img height="32" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+  <code><img height="32" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+  <code><img height="32" alt="GitHub" height="30" width="40" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png"></code> 
 </div>
  
  <br>
  
-  ### Para conteúdo sobre programação me segue nas redes abaixo!
+ ### <h1 align="center"> Para conteúdo sobre programação me segue nas redes abaixo! </h1>
  
-<div> 
+<div align="center"> 
      <a 
          href="https://www.linkedin.com/in/vandeson-santos/">
          <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
