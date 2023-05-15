@@ -4,7 +4,7 @@
 
 Olá! Meu nome é Vandeson Santos e seja bem-vindo(a)!
 
-&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Desde criança, sou apaixonado por tecnologia e sempre sonhei em trabalhar com programação. Atualmente, estou colocando esse sonho em prática estudando tecnologias de front-end, como HTML, CSS, JavaScript e React. Além disso, gosto muito de jogos, assistir animes e me encantar com o universo.🗺️🌍
+Desde criança, sou apaixonado por tecnologia e sempre sonhei em trabalhar com programação. Atualmente, estou colocando esse sonho em prática estudando tecnologias de front-end, como HTML, CSS, JavaScript e React. Além disso, gosto muito de jogos, assistir animes e me encantar com o universo.🗺️🌍
  
  <br>
 
