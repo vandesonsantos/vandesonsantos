@@ -2,6 +2,10 @@
 
 ## <h1 align="center"> Bem-vindo(a) ao perfil do Vandeson Santos </h1> 
 
+Olá! Meu nome é Vandeson Santos e seja bem-vindo(a)!
+
+Desde criança, sou apaixonado por tecnologia e sempre sonhei em trabalhar com programação. Atualmente, estou colocando esse sonho em prática estudando tecnologias de front-end, como HTML, CSS, JavaScript e React. Além disso, gosto muito de jogos, assistir animes e me encantar com o universo.🗺️🌍
+
  <div align="center">
   <a href="https://github.com/vandesonsantos">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vandesonsantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
